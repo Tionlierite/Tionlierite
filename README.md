@@ -59,7 +59,7 @@
       alt="nodejs"/> 
   </a>
   <a href="https://pptr.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black"              alt="Puppeteer"/>
+    <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black"alt="Puppeteer"/>
   </a>
 </p>
   
@@ -103,7 +103,8 @@
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepen">
   </a>
   <a href="https://trello.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge" alt="trello"/>       </a>
+    <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge" alt="trello"/>
+  </a>
 </p>
   
 <div align="center">
@@ -137,7 +138,7 @@
   
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tionlierite&theme=react&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&dates=848484&stroke=848484&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=57C3D8&fire=EB5454" allign="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tionlierite&show_icons=true&theme=react&hide_border=true">
+  <img src="https://github-readme-stats-sigma-teal.vercel.app/api?username=Tionlierite&show_icons=true&theme=react&hide_border=true">
 </p>
   
 ![Snake animation](https://github.com/Tionlierite/Tionlierite/blob/output/github-contribution-grid-snake-sissa.svg?color_snake=#4BA9BB.svg)
