@@ -1,4 +1,4 @@
-![Banner High](https://user-images.githubusercontent.com/84478565/230874374-4f235ece-9d2c-493e-b913-20c15f1156d0.jpg)
+![Banner Mid](https://user-images.githubusercontent.com/84478565/230933215-71c1798d-9484-4840-88fa-7ce294132e82.jpg)
 
 <h1 align="center">
   Hey, i'm Vlad! 
@@ -35,7 +35,7 @@
   
 <h3 align="center">Frontend</h3>
 <p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
+  <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
@@ -44,7 +44,8 @@
       alt="react"/> 
   </a>
   <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"
+      alt="redux"/> 
   </a> 
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
@@ -59,7 +60,8 @@
       alt="nodejs"/> 
   </a>
   <a href="https://pptr.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black"alt="Puppeteer"/>
+    <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" 
+      alt="Puppeteer"/>
   </a>
 </p>
   
@@ -78,7 +80,8 @@
       alt="git"/>
   </a>
   <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="github" />
   </a>
   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
@@ -97,13 +100,16 @@
 <h3 align="center">IDEs  & Tools</h3>
 <p align="center"> 
   <a href="https://www.jetbrains.com/webstorm/" target="_blank">
-    <img src="https://img.shields.io/badge/webstorm%20IDE-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" alt="webstorm" />
+    <img src="https://img.shields.io/badge/webstorm%20IDE-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white"
+      alt="webstorm" />
   </a>
   <a href="https://codepen.io/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepen">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"
+      alt="codepen">
   </a>
   <a href="https://trello.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge" alt="trello"/>
+    <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge"
+      alt="trello"/>
   </a>
 </p>
   
@@ -112,13 +118,16 @@
 
 <p align="center">
   <a href="https://t.me/Tionlierite" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="telegram"/>
   </a>
   <a href="mailto:Tionlierite@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"
+      alt="gmail"/>
   </a>
   <a href="https://discordapp.com/users/213590901249933312" target="_blank">
-    <img src="https://img.shields.io/badge/discord-1C95CB.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
+    <img src="https://img.shields.io/badge/discord-1C95CB.svg?style=for-the-badge&logo=discord&logoColor=white"
+      alt="discord"/>
   </a>
 </p>
   
