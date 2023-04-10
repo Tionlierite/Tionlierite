@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/84478565/230795046-eaba0263-15ce-4495-99b9-adade08c08fb.jpg)
+![Banner High](https://user-images.githubusercontent.com/84478565/230874374-4f235ece-9d2c-493e-b913-20c15f1156d0.jpg)
 
 <h1 align="center">
   Hey, i'm Vlad! 
