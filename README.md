@@ -113,6 +113,10 @@
     <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge"
       alt="trello"/>
   </a>
+  <a href="https://www.gitkraken.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-gitKraken-F9EFC1?logo=gitkraken&logoColor=black&style=for-the-badge"
+      alt="git Kraken"/>
+  </a>
 </p>
   
 <div align="center">
