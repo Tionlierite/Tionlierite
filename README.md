@@ -123,10 +123,6 @@
 <h2>Social Media</h2>
 
 <p align="center">
-  <a href="https://t.me/Tionlierite" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="telegram"/>
-  </a>
   <a href="mailto:Tionlierite@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"
       alt="gmail"/>
@@ -134,6 +130,10 @@
   <a href="https://discordapp.com/users/213590901249933312" target="_blank">
     <img src="https://img.shields.io/badge/discord-1C95CB.svg?style=for-the-badge&logo=discord&logoColor=white"
       alt="discord"/>
+  </a>
+  <a href="https://t.me/Tionlierite" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="telegram"/>
   </a>
 </p>
   
