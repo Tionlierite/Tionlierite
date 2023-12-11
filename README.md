@@ -7,9 +7,9 @@
 
 <p align="center">
   <em>
-    <b>Welcome to my profile!</b><br> I'm Vladislav Sergeev, 21 years old, a <b>final year</b> undergraduate from <a href="https://en.mai.ru/"> <b>Moscow Aviation Institute</b></a>. <br>
+    <b>Welcome to my profile!</b><br> I'm Vladislav Sergeev, 22 years old, a <b>first year</b> master's student from <a href="https://en.mai.ru/"> <b>Moscow Aviation Institute</b></a>. <br>
     Actively studying <b>Frontend Development</b> with the desire to dive into Fullstack. <br>
-    As for now, working on the client-side of a web-service for the Emergency Department.
+    As for now, working on the full-stack solution of a web-service for the Emergency Department and web-service Viatorus.
   </em> 
   <br>
 </p>
@@ -37,6 +37,10 @@
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+      alt="bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind-5CA4FF.svg?style=for-the-badge&logo=tailwind&logoColor=white"
       alt="bootstrap"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
@@ -69,6 +73,10 @@
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgresql-5CA4FF.svg?style=for-the-badge&logo=postgresql&logoColor=black"
       alt="mongodb"/> 
   </a> 
 </p>
@@ -117,6 +125,14 @@
     <img src="https://img.shields.io/badge/-gitKraken-F9EFC1?logo=gitkraken&logoColor=black&style=for-the-badge"
       alt="git Kraken"/>
   </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://img.shields.io/badge/confluence-47A248.svg?style=for-the-badge&logo=confluence&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> 
+    <img src="https://img.shields.io/badge/jira-0071FF.svg?style=for-the-badge&logo=jira&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
 </p>
   
 <div align="center">
