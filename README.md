@@ -41,7 +41,7 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/tailwind-5CA4FF.svg?style=for-the-badge&logo=tailwind&logoColor=white"
-      alt="bootstrap"/>
+      alt="tailwindcss"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -53,7 +53,7 @@
   </a>
   <a href="https://axios-http.com/ru/" target="_blank"> 
     <img src="https://img.shields.io/badge/axios-764ABC.svg?style=for-the-badge&logo=axios&logoColor=white"
-      alt="redux"/> 
+      alt="axios"/> 
   </a>
 </p>
   
@@ -67,6 +67,10 @@
     <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" 
       alt="Puppeteer"/>
   </a>
+  <a href="https://expressjs.com/ru/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-63F95C.svg?style=for-the-badge&logo=expressjs&logoColor=black" 
+      alt="Express.js"/>
+  </a>
 </p>
   
 <h3 align="center">Database</h3>
@@ -77,7 +81,7 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/postgresql-5CA4FF.svg?style=for-the-badge&logo=postgresql&logoColor=black"
-      alt="mongodb"/> 
+      alt="postgresql"/> 
   </a> 
 </p>
   
@@ -127,11 +131,11 @@
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
     <img src="https://img.shields.io/badge/confluence-47A248.svg?style=for-the-badge&logo=confluence&logoColor=white"
-      alt="mongodb"/> 
+      alt="confluence"/> 
   </a> 
   <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> 
     <img src="https://img.shields.io/badge/jira-0071FF.svg?style=for-the-badge&logo=jira&logoColor=white"
-      alt="mongodb"/> 
+      alt="Jira"/> 
   </a> 
 </p>
   
