@@ -20,7 +20,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+    <img src="https://img.shields.io/badge/Javascript-0095D5.svg?style=for-the-badge&logo=javascript&logoColor=white"
       alt="javascript"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -28,7 +28,7 @@
       alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+    <img src="https://img.shields.io/badge/css-239120.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
 </p>
@@ -36,19 +36,19 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+    <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/tailwind-5CA4FF.svg?style=for-the-badge&logo=tailwind&logoColor=white"
+    <img src="https://img.shields.io/badge/tailwind-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
       alt="tailwindcss"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+    <img src="https://img.shields.io/badge/react.js-35495E.svg?style=for-the-badge&logo=react&logoColor=61DAFB"
       alt="react"/> 
   </a>
   <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"
+    <img src="https://img.shields.io/badge/redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"
       alt="redux"/> 
   </a>
   <a href="https://axios-http.com/ru/" target="_blank"> 
@@ -63,50 +63,60 @@
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  <a href="https://pptr.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Puppeteer-00B780.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" 
-      alt="Puppeteer"/>
-  </a>
   <a href="https://expressjs.com/ru/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-63F95C.svg?style=for-the-badge&logo=expressjs&logoColor=black" 
+    <img src="https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=javascript&logoColor=white" 
       alt="Express.js"/>
   </a>
+  <a href="https://sequelize.org/" target="_blank">
+    <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" 
+      alt="Sequelize.js"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"
+      alt="JSON Web Token"/> 
+  </a>
 </p>
-  
+
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+    <img src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgresql-5CA4FF.svg?style=for-the-badge&logo=postgresql&logoColor=black"
+    <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
+  </a> 
+</p>
+
+<h3 align="center">Linters</h3>
+<p align="center">
+  <a href="https://eslint.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"
+      alt="ESLint"/> 
+  </a>
+  <a href="https://prettier.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"
+      alt="Prettier"/> 
   </a> 
 </p>
   
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+    <img src="https://img.shields.io/badge/git-E44C30.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"
       alt="github" />
   </a>
-  <!--
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="gitlab"/>
-  </a>
-  -->
 </p>
   
 <h3 align="center">Design</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-CB1C58.svg?style=for-the-badge&logo=figma&logoColor=white"
+    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
       alt="figma"/>
   </a>
 </p>
@@ -118,24 +128,20 @@
       alt="webstorm" />
   </a>
   <a href="https://codepen.io/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"
+    <img src="https://img.shields.io/badge/CodePen-525252?style=for-the-badge&logo=codepen&logoColor=white"
       alt="codepen">
   </a>
-  <a href="https://trello.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-trello-1C3ACB?logo=trello&logoColor=white&style=for-the-badge"
-      alt="trello"/>
-  </a>
   <a href="https://www.gitkraken.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-gitKraken-F9EFC1?logo=gitkraken&logoColor=black&style=for-the-badge"
-      alt="git Kraken"/>
+    <img src="https://img.shields.io/badge/-gitKraken-21C25E?logo=gitkraken&logoColor=white&style=for-the-badge"
+      alt="Git Kraken"/>
+  </a>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> 
+    <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"
+      alt="Jira"/> 
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
     <img src="https://img.shields.io/badge/confluence-47A248.svg?style=for-the-badge&logo=confluence&logoColor=white"
       alt="confluence"/> 
-  </a> 
-  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> 
-    <img src="https://img.shields.io/badge/jira-0071FF.svg?style=for-the-badge&logo=jira&logoColor=white"
-      alt="Jira"/> 
   </a> 
 </p>
   
@@ -156,6 +162,10 @@
       alt="telegram"/>
   </a>
 </p>
+<a href="https://github.com/Tionlierite/Tionlierite/issues/1" target="_blank">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
+      alt="Issues"/>
+</a>
   
 <div align="center">
 <h2>My workspace</h2>
